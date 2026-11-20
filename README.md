@@ -1,5 +1,8 @@
 # London Fire Brigade – Animal Rescue Incident Analysis
 
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 ## Project Overview
 This project explores animal rescue incidents recorded by the London Fire Brigade from 2009 to July 2026. The analysis uses Python and Pandas to examine incident patterns by animal group, time, rescue operation and borough.
 
@@ -54,6 +57,26 @@ Animal_Rescue_EDA/
 - Enfield has the highest recorded incident count among the boroughs in this dataset.
 - Pump count and incident notional cost show a moderate positive correlation (approximately 0.49) among rows where both values are available. Correlation does not establish causation.
 
+- ## Visualizations
+
+### Animal Group Distribution
+![Animal Group Distribution](Visualizations/01_animal_group_distribution.png)
+
+### Yearly Incident Trend
+![Yearly Incident Trend](Visualizations/02_yearly_incident_trend.png)
+
+### Average Daily Incidents by Month
+![Monthly Incident Pattern](Visualizations/03_average_daily_incidents_by_month.png)
+
+### Incidents by Hour
+![Incidents by Hour](Visualizations/04_incidents_by_hour.png)
+
+### Top Rescue Operations
+![Rescue Operations](Visualizations/05_top_rescue_operations.png)
+
+### Top Boroughs
+![Top Boroughs](Visualizations/06_top_boroughs.png)
+
 ## Analysis Workflow
 1. Load and inspect the dataset.
 2. Check data types, missing values and duplicate records.
@@ -79,4 +102,7 @@ Animal_Rescue_EDA/
 4. Run the notebook cells from top to bottom.
 
 ## Author
-Created as a data analysis portfolio project.
+Created as a data analysis portfolio project By
+**Nithin Shaju**
+
+GitHub: https://github.com/Nithinshaju-co/
