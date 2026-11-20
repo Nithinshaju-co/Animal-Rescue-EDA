@@ -57,7 +57,7 @@ Animal_Rescue_EDA/
 - Enfield has the highest recorded incident count among the boroughs in this dataset.
 - Pump count and incident notional cost show a moderate positive correlation (approximately 0.49) among rows where both values are available. Correlation does not establish causation.
 
-- ## Visualizations
+## Visualizations
 
 ### Animal Group Distribution
 ![Animal Group Distribution](Visualizations/01_animal_group_distribution.png)
